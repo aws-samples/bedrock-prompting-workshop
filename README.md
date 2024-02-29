@@ -1,6 +1,6 @@
 # Bedrock-Prompting-Workshop
 
-The purpose of this workshop is to go over prompting techniques and best practises for LLM's available on Bedrock/Sagemaker Jumpstart. Modules for new LLM's and prompting techniques will be added over time! 
+The purpose of this workshop is to go over prompting techniques and best practices for LLM's available on Amazon Bedrock. Modules for new LLM's and prompting techniques will be added over time! 
 
 ## Getting Started:
 
