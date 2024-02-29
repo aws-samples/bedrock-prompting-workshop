@@ -4,7 +4,7 @@ The purpose of this workshop is to go over prompting techniques and best practis
 
 ## Getting Started:
 
-The following instructions are outlined in the [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/README.md). This workshop is another great resource to learn on the In's & Outs of Amazon Bedrock. 
+The following setup instructions are taken from the [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/README.md). This workshop is another great resource to learn on the In's & Outs of Amazon Bedrock. 
 
 ### Choose a notebook environment
 
@@ -51,7 +51,7 @@ For more information on the fine-grained action and resource permissions in Bedr
 Once your notebook environment is set up, clone this workshop repository into it.
 
 ```sh
-git clone ADD REPO LINK
+git clone https://github.com/aws-samples/bedrock-prompting-workshop.git
 cd Prompting-Workshop-Bedrock
 ```
 
