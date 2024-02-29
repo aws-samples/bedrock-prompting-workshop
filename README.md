@@ -52,7 +52,7 @@ Once your notebook environment is set up, clone this workshop repository into it
 
 ```sh
 git clone https://github.com/aws-samples/bedrock-prompting-workshop.git
-cd Prompting-Workshop-Bedrock
+cd bedrock-prompting-workshop
 ```
 
 You're now ready to explore the lab notebooks!
